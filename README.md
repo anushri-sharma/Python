@@ -11,3 +11,4 @@ Here are some tips for improving your programming logic:
 
 # [Practice GFG](https://www.geeksforgeeks.org/explore)
 
+# [Top Logic Building Problems for Interviews](https://www.geeksforgeeks.org/dsa/top-problems-on-logic-building-problems-for-interviews/)
